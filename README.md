@@ -6,6 +6,12 @@ Navigate to the folder of the repository. Make sure that the ".git" folder exist
     ls -a
     sudo git status
     
-## Add new changes
+## Add files
+
+Stage all files (that are not listed in the .gitignore) in the entire repository
 
     sudo git add .
+    
+## Commit
+
+    sudo git commit
