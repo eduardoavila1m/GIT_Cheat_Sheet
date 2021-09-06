@@ -19,3 +19,9 @@ Stage all files (that are not listed in the .gitignore) in the entire repository
 Record changes to the local repository
 
     sudo git commit -m "message that commits"
+    
+## PUSH
+
+Update the remote refs along with associated objects
+
+    git push
