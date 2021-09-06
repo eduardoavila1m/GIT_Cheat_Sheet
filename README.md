@@ -2,7 +2,7 @@
 
 ## Create a repository from local machine
 
-This sections shows the workflow to create an online repository from local machine 
+This sections shows the workflow to create an online repository from local machine. For this to work is important to first create an empty repository that is either public or private via the browser and github website.
 
 ### Initialize GIT Repository
 
