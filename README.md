@@ -1,5 +1,21 @@
 # GIT_Cheat_Sheet
 
+## Install GIT in your local machine.
+
+    Follow the instruction in the GIT website to install GIT locally.
+
+## Review GIT version 
+
+If git has already been installed. review the git version with the command below
+
+    git version
+    
+## Update GIT
+
+To update git to the most recent version run the command below.
+
+    git update-git-for-windows
+
 ## Create a repository from local machine
 
 This sections shows the workflow to create an online repository from local machine. For this to work is important to first create an empty repository that is either public or private via the browser and github website.
