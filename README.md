@@ -23,7 +23,11 @@ Record changes to the local repository
 ### Branch to Origin
 
     git branch -M main
-        
+
+### Create a new repository in the Github website
+
+When creating the repository in github first navigate to your github account in a web browser. Make sure to choose a proper name with no space character, is better to use underscore. Check the sharing properties (eg. private, public), the type of Licence to release the code and other specifications provided in the repository creation wizard. Once the new repository has been created. Copy the link.
+
 ### Add Origin Path
 
     git remote add origin <Path to repository https://github.com/....>
